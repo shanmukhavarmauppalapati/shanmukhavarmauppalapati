@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shanmukhavarmauppalapati
 - 👀 I’m interested in data analyst role
 - 🌱 I’m currently learning data analyst course
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on data analysis project
 - 📫 How to reach me 
 -      linkedin  : https://www.linkedin.com/feed/
 
